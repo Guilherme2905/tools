@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.test.tools_challenge.ProcessarTransacaoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-08-12T14:06:55" hostname="g10-IdeaPad-Gaming-3-15IMH05" time="0.013">
+  <properties/>
+  <testcase name="testSaveAndFind()" classname="com.test.tools_challenge.ProcessarTransacaoTest" time="0.013"/>
+  <system-out><![CDATA[2024-08-12T11:06:55.370-03:00  INFO 1600834 --- [tools-challenge] [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.test.tools_challenge.ProcessarTransacaoTest]: ProcessarTransacaoTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-08-12T11:06:55.372-03:00  INFO 1600834 --- [tools-challenge] [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.test.tools_challenge.ToolsChallengeApplication for test class com.test.tools_challenge.ProcessarTransacaoTest
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
